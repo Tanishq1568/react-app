@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.a818fe3e.css",
+    "main.js": "/react-app/static/js/main.af29ad0b.js",
+    "static/js/453.2a82e7ac.chunk.js": "/react-app/static/js/453.2a82e7ac.chunk.js",
+    "static/media/porfolio.png": "/react-app/static/media/porfolio.a5af2a811f9d1d1e1dc7.png",
+    "static/media/bootstrap.png": "/react-app/static/media/bootstrap.b74e54d4897791a51840.png",
+    "static/media/react.svg": "/react-app/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
+    "static/media/javascript.svg": "/react-app/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "index.html": "/react-app/index.html",
+    "static/media/HTML5_Badge.svg": "/react-app/static/media/HTML5_Badge.5804150e47fbeb132a5d2688f08ce4c8.svg",
+    "static/media/css-3.svg": "/react-app/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "main.a818fe3e.css.map": "/react-app/static/css/main.a818fe3e.css.map",
+    "main.af29ad0b.js.map": "/react-app/static/js/main.af29ad0b.js.map",
+    "453.2a82e7ac.chunk.js.map": "/react-app/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a818fe3e.css",
+    "static/js/main.af29ad0b.js"
+  ]
+}
